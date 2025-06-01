@@ -1,0 +1,13 @@
+.highlight{
+    background-color: #f0f8ff; /* Light blue background */
+    border: 10px solid #d0e7ff; /* Soft border */
+    padding: 10px; /* Padding for better readability */
+    border-radius: 5px; /* Rounded corners */
+    font-family: 'Courier New', Courier, monospace; /* Monospace font for code */
+    color: #333; /* Dark text color */
+}
+
+.hover{
+    color: #0056b3; /* Change text color on hover */
+    text-decoration: underline; /* Underline text on hover */
+}
